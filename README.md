@@ -6,7 +6,7 @@ To install CSV_Upload, please follow these steps:
 
 Clone this repository using the following command:
 ```
-$ git clone https://github.com/agentgrey/eCommerceAPI.git
+$ git clone https://github.com/priyamprakash/E_Commerce_API_CN.git
 ```
 Install the required dependencies using the following command:
 ```
