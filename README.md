@@ -24,7 +24,7 @@ $ http://localhost:8000
 ## Features
 * To create a product -> POST:  http://localhost:8000/products/create
 * To view all products -> GET:  http://localhost:8000/products
-* To update a product's quantity -> POST:  http://localhost:8000/products/id/quant?quantity=value
+* To update a product's quantity -> POST:  http://localhost:8000/products/id/update_quantity?quantity=value
    ``` (id represents the id of the product, value is the desired quantity)```
 * To delete a product -> DELETE:  http://localhost:8000//products/:id
 
