@@ -7,7 +7,10 @@
     "start": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Himadri Nayak",
+  "engines": {
+    "node": ">=16.20.1 <17.0.0"
+  },
+  "author": "Priyam Prakash",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2",
