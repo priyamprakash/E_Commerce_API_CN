@@ -2,7 +2,7 @@
 const mongoose = require("mongoose");
 
 // connect to the database
-mongoose.connect("mongodb://0.0.0.0:27017/eCommerceAPI");
+mongoose.connect("mongodb+srv://priyamprakash99:J2oCI3E7agErBq7b@cluster0.iajzcfs.mongodb.net/?retryWrites=true&w=majority");
 
 // setting it to db
 const db = mongoose.connection;
